@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mad Love",
+  "base_artist": "メイベル",
+  "createdAt": "2026-03-15T13:13:16.927559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mad Love´s  Comin´",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/01_Mad_Love_́s_Comin_́_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/02_Mad_Love_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mad Love.",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/03_Mad_Love._JoJo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "The Pretty Reckless",
+      "has_synced": true,
+      "path": "select/04_Mad_Love_The_Pretty_Reckless.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Bush",
+      "has_synced": true,
+      "path": "select/05_Mad_Love_Bush.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Sean Paul feat. David Guetta & Becky G",
+      "has_synced": false,
+      "path": "select/06_Mad_Love_Sean_Paul_feat._David_Guetta_&_Becky_G.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/07_Mad_Love_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Sean Paul, David Guetta, Becky G",
+      "has_synced": true,
+      "path": "select/08_Mad_Love_Sean_Paul,_David_Guetta,_Becky_G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/09_Mad_Love_Dido.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/10_Mad_Love_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/11_Mad_Love_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mad Love (Ft. David Guetta & Becky G)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/12_Mad_Love_(Ft._David_Guetta_&_Becky_G)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mad Love (Ft. David Guetta)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/13_Mad_Love_(Ft._David_Guetta)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mad Love (I Want You To Love Me)",
+      "artist": "Muddy Waters",
+      "has_synced": true,
+      "path": "select/14_Mad_Love_(I_Want_You_To_Love_Me)_Muddy_Waters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mad Love ( I Want You To Love",
+      "artist": "Muddy Waters",
+      "has_synced": true,
+      "path": "select/15_Mad_Love_(_I_Want_You_To_Love_Muddy_Waters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mad Love",
+      "artist": "David Guetta & Sean Paul feat. Becky G",
+      "has_synced": true,
+      "path": "select/16_Mad_Love_David_Guetta_&_Sean_Paul_feat._Becky_G.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad Love",
+      "artist": "Mabel",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_Love_Mabel.txt"
+    }
+  ]
+}
